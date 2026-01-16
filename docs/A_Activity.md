@@ -7,7 +7,7 @@
 
 ![邮票作弊button](images/A_stamp_button.png)
 ### Genie 灯神
-### 111
+### test
     data:
         {"genie_bonus_a": 
             {"available": 0, 
