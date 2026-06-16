@@ -9,4 +9,5 @@
 ## [Super Vault Heist 数值计算](tools_html/super-vault-heist-calculator.html)
 ## [字体预览器](tools_html/fontPreviewer.html)
 ## [Spin 剧本生成工具](tools_html/spin-script-generator.html)
+## [发布更新内容生成](tools_html/release-update-helper.html)
 
